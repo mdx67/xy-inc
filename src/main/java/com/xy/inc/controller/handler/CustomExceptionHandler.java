@@ -1,4 +1,4 @@
-package com.xy.inc.controller.handle;
+package com.xy.inc.controller.handler;
 
 import com.xy.inc.exception.ValidationException;
 import com.xy.inc.utils.Utils;

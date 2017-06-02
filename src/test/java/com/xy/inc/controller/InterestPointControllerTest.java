@@ -1,6 +1,6 @@
 package com.xy.inc.controller;
 
-import com.xy.inc.controller.handle.CustomExceptionHandler;
+import com.xy.inc.controller.handler.CustomExceptionHandler;
 import com.xy.inc.domain.InterestPoint;
 import com.xy.inc.service.InterestPointService;
 import com.xy.inc.utils.Utils;
